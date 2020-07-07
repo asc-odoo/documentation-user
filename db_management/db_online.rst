@@ -115,7 +115,7 @@ receive an e-mail with the URL of the test database.
 
 **Testing your database is the most important step of the upgrade process!**
 Even though we test all upgrades manually, we do not know your work processes.
-A change in standard worfklows of Odoo in new versions might require you to
+A change in standard workflows of Odoo in new versions might require you to
 change internal processes, or some of the customizations you made through Odoo
 Studio might not work properly. *It is up to you to make sure that everything
 works as it should!* You can report issues with your test database through our
